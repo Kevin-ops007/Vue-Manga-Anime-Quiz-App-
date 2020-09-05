@@ -1,4 +1,4 @@
-# quizmaker
+# Manga/Anime quiz maker
 
 ## Project setup
 ```

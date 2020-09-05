@@ -1,4 +1,4 @@
-# Manga/Anime quiz maker
+# Manga/Anime quiz Maker using Vue
 
 ## Project setup
 ```
